@@ -1,0 +1,118 @@
+body {
+    background-color: rgb(1, 1, 45);
+}
+
+.top {
+    color:white;
+    font-size:20px ;
+    position: absolute;
+    left: 60px;
+    top: 30px;
+    height: 80px;
+    width: 80px;
+    border-radius: 10%;
+}
+
+
+
+.Student {
+    color:purple;
+    position: absolute;
+    top: 27%;
+    left: 60px;
+    font-size: 23px;
+}
+
+.Name {
+    color:white;
+    position: absolute;
+    top: 30%;
+    left: 60px;
+    font-size: 26px;
+}
+
+.row {
+    position: absolute;
+    top: 45%;
+    left:60px;
+    color: white;
+}
+
+.fp {
+    position: absolute;
+    top: 54%;
+    left: 60px;
+    color: white;
+    max-width:  500px;
+    font-size:17px ;
+}
+
+.get {
+    border: solid white 1px;
+    position: absolute;
+    top:70% ;
+    left: 60px;
+    border-radius: 5px;
+    min-height: 50px;
+    background-color: white;
+}
+
+ul li a{
+    display: inline-block;
+    color: white;
+    padding: 20px;
+    font-size: 23px;
+    text-decoration: none;
+    
+}
+
+ 
+.li1 {
+    position: absolute;
+    left:700px;
+    
+}
+
+.li2 {
+    position: absolute;
+    left:800px;
+}
+.li3 {
+    position: absolute;
+    left:900px;
+}
+.li4 {
+    position: absolute;
+    left:1022px;
+}
+
+img {
+    position:absolute;
+    left: 700px;
+    top: 20%;
+    height: 500px;
+    width: 400px;
+    border-radius:70px ;
+}
+
+.border {
+    position: absolute;
+    left: 700px;
+    top: 35%;
+    
+    height: 400px;
+    width: 400px;
+    background-color: rgba(255, 204, 0, 0.689);
+    border-radius:50%;
+}
+
+.border1 {
+    position: absolute;
+    left: 750px;
+    top: 50.5%;
+    
+    height: 300px;
+    width: 300px;
+    background-color: rgba(0, 115, 255, 0.689);
+    border-radius:50%;
+}
